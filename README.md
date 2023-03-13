@@ -1,17 +1,3 @@
-# notepad
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# Noteapp
+<h3>Notepad using Flutter ✏️🤩</h3>
+<h5>The first application I built with State Management Bloc, and you can take my code and learn and you will like it</h5>
+<img src="assets/images/screenshot-1678710161103.png" width="20" height="40"/>
