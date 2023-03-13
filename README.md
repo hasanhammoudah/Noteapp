@@ -13,7 +13,20 @@
     <img src="assets/images/screenshot-1678710196268.png" alt="Mountains" style="width:100%">
   </div>
 </div>
+ 
+<style>
 
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
 .row {
   display: flex;
 }
@@ -22,4 +35,6 @@
   flex: 33.33%;
   padding: 5px;
 }
+ 
+ </style>
 
