@@ -1,5 +1,5 @@
 <h3>Notepad using Flutter ✏️🤩</h3>
-<h5>The first application I built with State Management <a href="https://pub.dev/packages/flutter_bloc">Bloc<a/>, and you can take my code and learn and you will like it</h5>
+<h5>The first application I built with State Management <a href="https://pub.dev/packages/flutter_bloc">Bloc<a/>, and you can take my code and learn and you will like it!</h5>
 <br/>
  <br/>
  <div class="row">
